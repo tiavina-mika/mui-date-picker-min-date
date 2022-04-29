@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "@mui/x-date-pickers": "latest",
+    "date-fns": "latest",
+    "moment": "2.29.3",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "description": "https://github.com/mui/mui-x/blob/v5.10.0/docs/data/date-pickers/getting-started/MaterialUIPickers.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "name": "MaterialUIPickers Material Demo",
+  "title": "MaterialUIPickers Material Demo"
+}
